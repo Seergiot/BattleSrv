@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Battleball_Srv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Battleball_Srv_jar</output-path>
+    <root id="archive" name="Battleball_Srv.jar">
+      <element id="module-output" name="Battleball_Srv" />
+    </root>
+  </artifact>
+</component>
